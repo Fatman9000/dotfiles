@@ -168,6 +168,7 @@ bindkey '^e' edit-command-line
 
 # Aliases
 alias jsh="joshuto"
+alias hx="helix"
 
 export SDKMAN_DIR="$HOME/.sdkman"
 [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
