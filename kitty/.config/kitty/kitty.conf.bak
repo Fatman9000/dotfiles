@@ -1,0 +1,8 @@
+# BEGIN_KITTY_THEME
+# Leaf Dark
+include current-theme.conf
+# END_KITTY_THEME
+font_size 16.0
+enable_audio_bell no
+command_on_bell pw-play /usr/share/sounds/freedesktop/stereo/dialog-warning.oga
+
